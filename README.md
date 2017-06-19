@@ -7,7 +7,7 @@ Maintainer is Olaf Schott, ARD.ZDF medienakademie, Nuremberg, Germany
 The spec is implemented by several system vendors in the German professional radio broadcasting market.
 
 
-## MOS goeas Radio
+## MOS goes Radio
 
 * has been used successfully by select public German broadcasters since as long as 2011
 * is a collection of .XSD files to define MEM (MOS external metadata) structures for mosObj as well as MOS running order, story & item
